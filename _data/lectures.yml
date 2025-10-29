@@ -133,6 +133,7 @@
 - date: 10/29
   lecturer: Prof. Lengerich
   title: <strong>Factor Analysis, Autoencoders, VAEs</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_16_autoencoders.pdf"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/linear_factors.html">Deep learning book</a>, Ch. 13
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/autoencoders.html">Deep learning book</a>, Ch. 14
